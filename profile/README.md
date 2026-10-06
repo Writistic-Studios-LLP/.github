@@ -27,6 +27,6 @@ flowchart LR
 | 🧠 Model | https://huggingface.co/writistic-studios/Blossom-Bifurcation-Threat-Model |
 | 📊 Dataset (30,000 simulated sessions) | https://huggingface.co/datasets/writistic-studios/Blossom-Bifurcation-Simulated-Sessions |
 | ⚡ Hosted API | https://bbm-threat-api.vercel.app |
-| 📄 Research paper V5.0 | https://doi.org/10.5281/zenodo.23180850 |
+| 📄 Research paper V5.0 | https://doi.org/10.5281/zenodo.23180849 |
 
 > Honest status: the model is a prototype trained on simulated players, since no real player logs exist yet. Retrain on real beta data before relying on it.
